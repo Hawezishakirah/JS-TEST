@@ -1,0 +1,1 @@
+//Objects are collections of key-value pairs while arrays are ordered values of collections
